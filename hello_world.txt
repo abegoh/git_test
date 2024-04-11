@@ -1,2 +1,4 @@
 Hello word! This is a text file.
 Line 2 contains the words Line 2.
+
+Git commit messages?
